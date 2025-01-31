@@ -21,7 +21,7 @@ Here are some of the tools and technologies I’ve worked with:
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)    ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 - **Graphics APIs**:  
-  ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)    ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
+  ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)    ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)   ![HLSL](https://img.shields.io/badge/HLSL-0078D6?style=for-the-badge&logo=directx&logoColor=white)    ![GLSL](https://img.shields.io/badge/GLSL-5686A5?style=for-the-badge&logo=opengl&logoColor=white)
 
 - **Game Engines**:  
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)    ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
