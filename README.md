@@ -1,6 +1,6 @@
-# GitHub Profile: [Ioana Raileanu]
+# 👋 Welcome to my GitHub profile!
 
-👋 Welcome to my GitHub profile! I’m a passionate game development student with a strong focus on programming and a love for creating interactive experiences. Here, you’ll find a collection of projects that showcase my skills and growth as a developer. Feel free to explore, contribute, or reach out—I’m always open to collaboration and feedback!
+I’m a passionate game development student with a strong focus on programming and a love for creating interactive experiences. Here, you’ll find a collection of projects that showcase my skills and growth as a developer. Feel free to explore, contribute, or reach out—I’m always open to collaboration and feedback!
 
 ---
 
