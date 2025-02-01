@@ -1,7 +1,8 @@
 
-<h2>👋 Welcome to my GitHub profile!</h2>
-<img align='right' src="https://miro.medium.com/v2/resize:fit:1400/0*K2WLMTExLyida7OR.gif" width="230">
-<p><em>I’m a passionate game development student with a strong focus on programming and a love for creating interactive experiences. Here, you’ll find a collection of projects that showcase my skills and growth as a developer. Feel free to explore, contribute, or reach out—I’m always open to collaboration and feedback!
+<h1 align="center">Hi 👋, I'm Ioana</h1>
+<img align='right' src="https://miro.medium.com/v2/resize:fit:1400/0*K2WLMTExLyida7OR.gif" width="300">
+<h3 align="left">I’m a passionate game development student with a strong focus on <br> programming and a love for creating interactive experiences.</h3>
+<p align="left"><em>Here, you’ll find a collection of projects that showcase my skills and growth as a developer. <br>Feel free to explore, contribute, or reach out—I’m always open to collaboration and feedback!
 </em></p>
 <br><br>
 
@@ -25,6 +26,10 @@ Here are some of the tools and technologies I’ve worked with:
 
 - **Game Engines**:  
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)    ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+- **Software**:  
+  ![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)    ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)    ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)    ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)    ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 - **Tools**:  
   ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -52,3 +57,4 @@ I’m always looking to connect with fellow developers, collaborate on projects,
 *Thanks for visiting my profile! Let’s create something amazing together.* 🚀  
 
 ---
+
