@@ -51,9 +51,9 @@ Here are some of the tools and technologies I’ve worked with:
 
 I’m always looking to connect with fellow developers, collaborate on projects, or discuss game development. Feel free to reach out!
 
+- [**Portfolio**](https://juddy2403.github.io/)
 - **LinkedIn**: [Ioana Raileanu](www.linkedin.com/in/ioana-raileanu-147725252)  
 - **Email**: ioanaraileanu24@yahoo.com
-<!-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)-->  
 
 ---
 
