@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ioana</h1>
-<img align='right' src="https://i.imgur.com/x8KXlOi.gif" width="300">
+<img align='right' src="https://github.com/user-attachments/assets/5e89cf57-57b9-4ab5-89f5-a3557358c1a4" width="300">
 
 <h3 align="left">I’m a passionate game development student with a strong focus on <br> programming and a love for creating interactive experiences.</h3>
 <p align="left"><em>Here, you’ll find a collection of projects that showcase my skills and growth as a developer. <br>Feel free to explore, contribute, or reach out—I’m always open to collaboration and feedback!
