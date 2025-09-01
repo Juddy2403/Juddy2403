@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 I’m a game development student with **6 years of experience in C++** and a growing expertise in other programming languages and tools. My journey into game development began with my interest in **C++** and **drawing**, as I found games to be the perfect medium to combine my technical and creative passions.
+
 While I’ve decided to focus on the programming side of game development, I also have experience in **traditional and digital drawing**, as well as **3D modeling**, which I’ve learned as part of my college curriculum. Other than gameplay programming, my curriculum has allowed me to gain experience in **graphics programming** and **game engine development**, and I’ve worked with **Vulkan** and **DirectX** to create rendering systems and optimize performance.
 
 I’m a **fast learner**, **team player**, and always eager to take on new challenges. My goal is to contribute to innovative projects and continue growing as a developer.
